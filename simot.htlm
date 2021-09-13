@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+   <title>projeto simot</title>
+    </head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" type="text/css" href="style01.css">
+    <style>
+    
+    a{   color: white;
+        text-decoration-line: none;
+        text-justify: auto;
+    }
+    div{
+    background-color: rgb(25, 82, 44);
+    font-size: 25px;
+    text-align: center ;
+    }
+
+      </style>
+
+   </header>
+
+    <body>
+        
+        <h1>SIMOT</h1>
+        <div id="d1">
+    
+            <a href="#i">Inicio</a>
+            <a href="#o">O que somos?</a>
+            <a href="#s">Serviços</a>
+            <a href="#cidades.html">Cidades</a>
+            <a href="#1">Contatos</a>
+        </div>
+
+        <h3 id="o">ABOUT US</h3> 
+           <p> nós somos A Praia de Pipa é uma famosa praia localizada no município de Tibau do Sul, ficando a 85 km de Natal, capital do estado do Rio Grande do Norte, Brasil. É o principal balneário do Litoral Sul do estado, que inclui ainda praias como Ponta do Madeiro e Praia do Amor.
+
+            São 9 praias que formam o balneário conhecido como Praia da Pipa: praia de Tibau do Sul, onde desagua a Lagoa Guaraíras, Praia do Giz, Cacimbinhas, Madeiro, Baía do Golfinhos, Praia do Centro, Amor, Minas, Cancela e Sibaúma.
+            
+            O nome "pipa" deve-se ao fato de que os portugueses ao passar de navio pelas proximidades avistaram uma pedra que lembrava um formato de uma pipa. Pipa, em Portugal, é a denominação mais usual para barril de vinho ou de azeite,[1] forma que a pedra fazia lembrar.
+            
+            Pipa também tem história na guerra do Brasil holandês, como explica o verbete dedicado a Maurício de Nassau.
+            
+            A Praia de Pipa, em toda a sua extensão, está definida como área de preservação de tartarugas marinhas, segundo a Resolução n.º10, de 24/10/1996, do Conselho Nacional do Meio Ambiente (CONAMA).[2]
+            
+            Esclarece-se que o nome Praia de Pipa é mais conhecida pelos habitantes locais e pela população do estado, enquanto que o nome Praia da Pipa é mais conhecida pelos turistas.
+            
+            A praia também realiza anualmente o Festival Gastronômico de Pipa.<p>
+
+                <img class="centro" src="pn.jpe" alt="" width="300px" height="230px"/>
+        <h3 id="s">SERVICE</h3>
+            <p>oq fazemos Tibau do Sul é um município brasileiro situado na faixa litorânea meridional do estado do Rio Grande do Norte, distante 77 quilômetros a sul de Natal, capital do estado. Ocupa uma área de 102,680 km² e sua população foi estimada no ano de 2020 em 14 440 habitantes.
+
+                Internacionalmente conhecido por abrigar a Praia de Pipa, Tibau do Sul é um dos principais balneários do estado e um importante polo indutor de turismo,[8] que começou a se desenvolver na década de 1970, quando vários grupos de surfistas descobriram e começaram a frequentar cada vez mais as praias do município. Isso fez com que Tibau do Sul rapidamente crescesse no turismo, atraindo cada vez mais gente de todos os lugares do mundo, tornando Pipa uma das praias mais cosmopolitas do Brasil.
+                
+                Situado entre a Lagoa das Guaraíras e o Oceano Atlântico, Tibau do Sul era distrito de Goianinha, com a denominação Tibau. Com a emancipação consolidada, em 3 de abril de 1963, o novo município adquiriu sua denominação atual para diferenciar de um outro Tibau, município do litoral norte do Rio Grande do Norte, próximo a Mossoró.</p>
+                
+        <h3 id="1" >CONTATOS</h3>
+            <p>nossos contatos são</p>
+
+
+     </body>
+</html>
