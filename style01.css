@@ -1,0 +1,25 @@
+body{
+    height: 100%;
+    width: 98%;
+}
+h1{ color: white;
+    text-align: center;
+    font-size: 1.6cm;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+main{
+    background-color:white;
+    text-align: justify;
+    font-family: serif;
+    margin: 0.5cm;
+}
+table{
+    border-spacing: 10px;
+}
+
+.nome{
+    width: 100%;
+    background-color: rgb(25, 82, 44);
+    height: 90px;
+}
