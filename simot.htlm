@@ -22,20 +22,30 @@
 
       </style>
 
-   </header>
-
+   
     <body>
+        <header class="nome">
+       
+        <H1>SIMOT</H1>
+   
+    </header><div id="d1">
+ 
+    <table cellspading="4">
         
-        <h1>SIMOT</h1>
-        <div id="d1">
-    
-            <a href="#i">Inicio</a>
-            <a href="#o">O que somos?</a>
-            <a href="#s">Serviços</a>
-            <a href="#cidades.html">Cidades</a>
-            <a href="#1">Contatos</a>
-        </div>
+   <tr>
+        <tb>    <a href="#i">Sobre o SIMOT</a>  </tb>  
+        <tb>    <a href="#o">Suporte</a>    </tb>    
+        <tb>    <a href="#s">Equipe</a> </tb>    
+        <tb>    <a href="#c">Pesquisa</a>   </tb>
+        <tb>    <a href="#1">Longin</a>  </tb> 
+        <tb>    <a href="#1">Destaques</a>  </tb>  
+        <tb>    <a href="#1">Redes Sociais</a>  </tb>
+        <tb>    <a href="#1">Galerias</a>   </tb>
 
+       </tr> </table>
+        
+    </div>
+<main>
         <h3 id="o">ABOUT US</h3> 
            <p> nós somos A Praia de Pipa é uma famosa praia localizada no município de Tibau do Sul, ficando a 85 km de Natal, capital do estado do Rio Grande do Norte, Brasil. É o principal balneário do Litoral Sul do estado, que inclui ainda praias como Ponta do Madeiro e Praia do Amor.
 
@@ -61,7 +71,7 @@
                 
         <h3 id="1" >CONTATOS</h3>
             <p>nossos contatos são</p>
-
+</main>
 
      </body>
 </html>
